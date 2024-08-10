@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um Analista Sênior de Compras e Intelig�
 
 ## 🌟 Sobre Mim
 
-- 🎓 **Formação:** Atualmente cursando Engenharia de Produção pelo CEFET/RJ, com conclusão prevista para dezembro de 2026.
+- 🎓 **Formação:** Atualmente cursando Engenharia de Produção pelo CEFET/RJ, aulas totalmente onlines com provas aos fins de semana, com conclusão prevista para dezembro de 2026.
 - 💻 **Experiência Profissional:** Atuo como Analista Sênior de Compras no Grupo Trigo, onde lidero iniciativas estratégicas usando Python, SQL e Power BI para otimizar operações e reduzir custos.
 - 📈 **Habilidades Técnicas:**
   - **Python:** Desenvolvimento de automações, análises de dados e relatórios com bibliotecas como Pandas, Plotly, Prophet e outras.
