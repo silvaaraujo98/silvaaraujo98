@@ -3,7 +3,7 @@
 
 Eu sou João Victor da Silva Araujo, um entusiasta de tecnologia com uma paixão por Data Science, Análise de Dados, Python, Power BI, e Direito. Aqui, você encontrará uma coleção dos meus projetos, tutoriais e experimentos em várias áreas que me interessam.
 
-🔍 Sobre Mim
+### 🔍 Sobre Mim
 💻 Python: Tenho conhecimento avançado em Python, com foco em análise de dados e automação de tarefas. Adoro explorar novas bibliotecas e frameworks para resolver problemas do mundo real.
 🗃️ SQL: Sou bom em SQL, especialmente em análise de dados com subqueries, CTEs e joins.
 📊 Power BI: Experiência sólida em medidas, visualização e linguagem M. Sempre buscando aprender mais sobre o Power BI Serviço.
