@@ -15,3 +15,10 @@ Eu sou João Victor da Silva Araujo, um entusiasta de tecnologia com uma paixão
 * Ferramentas: Power BI, Git & GitHub, Excel
 * Bibliotecas: Tkinter, PyAutoGUI, pptx
 * Outros: Visualização de dados, Modelagem de dados, Análise estatística, Negociação, Oratória, SCRUM e OKRs
+
+## 🌍 Onde me encontrar
+* GitHub: silvaaraujo98
+* Medium: @jvsilvaaraujo98
+* LinkedIn: João Victor Silva Araújo
+* Linktree: Projetos e Links
+
