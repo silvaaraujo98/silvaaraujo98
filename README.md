@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um Analista Sênior de Compras e Intelig�
 ### [Workshop sobre LLMs](https://www.linkedin.com/posts/jvictoraraujo_depois-de-v%C3%A1rios-meses-fazendo-o-material-activity-7161500526474391552-Bxwe?utm_source=share&utm_medium=member_desktop)
 Conduzi um workshop para funcionários do Grupo Trigo sobre o uso de Modelos de Linguagem de Grande Escala (LLMs), com foco em como essas tecnologias podem ser aplicadas para melhorar a eficiência e inovação em diversas áreas da empresa. O workshop destacou o uso de ferramentas como ChatGPT e outras IAs generativas.
 
-### [Loja de Doces da Dona Sônia]([https://github.com/silvaaraujo98/loja-doces-dona-sonia](https://www.linkedin.com/posts/jvictoraraujo_dashboards-powerapps-streamlit-activity-7172722741429710849-gsE0?utm_source=share&utm_medium=member_desktop)
+### [Loja de Doces da Dona Sônia]([https://github.com/silvaaraujo98/loja-doces-dona-sonia](https://www.linkedin.com/posts/jvictoraraujo_dashboards-powerapps-streamlit-activity-7172722741429710849-gsE0?utm_source=share&utm_medium=member_desktop])
 Desenvolvi um projeto utilizando Streamlit para criar uma aplicação web para a loja de doces da Dona Sônia. A aplicação permite a gestão de estoque, vendas e visualização de dados em tempo real, ajudando a otimizar as operações do negócio.
 
 ### [Artigos no Medium](https://medium.com/@jvsilvaaraujo98)
