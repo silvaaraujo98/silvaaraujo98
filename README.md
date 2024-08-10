@@ -17,8 +17,9 @@ Eu sou João Victor da Silva Araujo, um entusiasta de tecnologia com uma paixão
 * Outros: Visualização de dados, Modelagem de dados, Análise estatística, Negociação, Oratória, SCRUM e OKRs
 
 ## 🌍 Onde me encontrar
-* GitHub: silvaaraujo98
-* Medium: @jvsilvaaraujo98
-* LinkedIn: João Victor Silva Araújo
-* Linktree: Projetos e Links
+
+- **GitHub:** [silvaaraujo98](https://github.com/silvaaraujo98)
+- **Medium:** [@jvsilvaaraujo98](https://medium.com/@jvsilvaaraujo98)
+- **LinkedIn:** [João Victor Silva Araújo](https://www.linkedin.com/in/jo%C3%A3o-victor-silva-araujo-371007196/)
+- **Linktree:** [Projetos e Links](https://linktr.ee/silvaaraujo98)
 
