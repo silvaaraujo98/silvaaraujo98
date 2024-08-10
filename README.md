@@ -1,5 +1,6 @@
 
-Bem-vindo ao meu GitHub! 👋
+## Bem-vindo ao meu GitHub! 👋
+
 Eu sou João Victor da Silva Araujo, um entusiasta de tecnologia com uma paixão por Data Science, Análise de Dados, Python, Power BI, e Direito. Aqui, você encontrará uma coleção dos meus projetos, tutoriais e experimentos em várias áreas que me interessam.
 
 🔍 Sobre Mim
