@@ -1,7 +1,7 @@
 
 # Olá! Eu sou João Victor da Silva Araújo 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um Analista Pleno de Bi apaixonado por tecnologia, dados e inovação. Aqui você encontrará alguns dos meus projetos e contribuições, que refletem minha experiência e habilidades nas áreas de análise de dados, programação e inteligência de mercado.
+Bem-vindo ao meu perfil do GitHub! Sou um Analista Pleno de Bi e de Dados apaixonado por tecnologia, dados e inovação. Aqui você encontrará alguns dos meus projetos e contribuições, que refletem minha experiência e habilidades nas áreas de análise de dados, programação e inteligência de mercado.
 
 ## 🌟 Sobre Mim
 
