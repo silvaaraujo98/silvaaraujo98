@@ -1,24 +1,28 @@
 
 # Olá! Eu sou João Victor da Silva Araújo 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um Analista Sênior de Compras e Inteligência apaixonado por tecnologia, dados e inovação. Aqui você encontrará alguns dos meus projetos e contribuições, que refletem minha experiência e habilidades nas áreas de análise de dados, programação e inteligência de mercado.
+Bem-vindo ao meu perfil do GitHub! Sou um Analista Pleno de Bi apaixonado por tecnologia, dados e inovação. Aqui você encontrará alguns dos meus projetos e contribuições, que refletem minha experiência e habilidades nas áreas de análise de dados, programação e inteligência de mercado.
 
 ## 🌟 Sobre Mim
 
 - 🎓 **Formação:** Atualmente cursando Engenharia de Produção pelo CEFET/RJ, aulas totalmente onlines com provas aos fins de semana, com conclusão prevista para dezembro de 2026.
-- 💻 **Experiência Profissional:** Atuo como Analista Sênior de Compras no Grupo Trigo, onde lidero iniciativas estratégicas usando Python, SQL e Power BI para otimizar operações e reduzir custos.
+- 💻 **Experiência Profissional:** Atuo como Analista Pleno de Bi na Ipnet By Vivo, onde desenvolvo Dashboards e  atendo tickets em Power BI e Looker.
 - 📈 **Habilidades Técnicas:**
   - **Python:** Desenvolvimento de automações, análises de dados e relatórios com bibliotecas como Pandas, Plotly, Prophet e outras.
   - **SQL:** Criação de consultas complexas para análise de KPIs, relatórios de marketing e otimização de processos.
   - **Power BI:** Criação de dashboards interativos e relatórios detalhados usando DAX.
   - **Git & GitHub:** Controle de versão e colaboração em projetos de software.
+  - **Figma:** Criação de templates para plano de fundo para Looker e Power Bi
+  - **Power BI Service:** Criação de Gateway, Conexão com Bigquery, Scripts em M e Controle de Acesso.
+  - **Google Big Query:** Criação de Views e Queries para serem Consumidas no Power Bi
+  - **GCP:** Uso de diversas ferramntas de GCP para criação de ecossistema resiliente e seguro.
   - **Estatística:** Proficiente em testes estatísticos e análise de dados para suporte a decisões de marketing e operações.
   - **Outros:** Negociação, Scrum, Oratória e OKRs.
 
 ## 🛠️ Ferramentas e Tecnologias
 
 - **Linguagens:** Python, SQL, DAX
-- **Ferramentas:** Power BI, Git & GitHub, Excel
+- **Ferramentas:** Power BI, Git & GitHub, Excel, Figma, Google Big Query
 - **Bibliotecas:** Pandas, Plotly, Prophet, pptx, Openpyxl
 - **Outros:** Visualização de dados, Modelagem de dados, Análise estatística
 
