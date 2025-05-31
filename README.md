@@ -46,4 +46,4 @@ Meu GitHub é o lar de uma variedade de projetos, desde automações em Python a
 - **Medium:** [@jvsilvaaraujo98](https://medium.com/@jvsilvaaraujo98)
 - **LinkedIn:** [João Victor Silva Araújo](https://www.linkedin.com/in/jo%C3%A3o-victor-silva-araujo-371007196/)
 - **Linktree:** [Projetos e Links](https://linktr.ee/silvaaraujo98)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silvaaraujo98&show_icons=true&theme=dark)
