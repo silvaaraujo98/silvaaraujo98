@@ -5,6 +5,13 @@ Bem-vindo ao meu perfil do GitHub! Sou um Analista Pleno de Bi e de Dados apaixo
 
 ## 🚀 Projetos Destacados
 
+### [Pipeline de Dados usando dados de Aviação da ANAC] (https://github.com/silvaaraujo98/dbt-project-anac)
+Desenvolvimento de um pipeline de dados usando que ingere dados da Agência Nacional de Aviação Civil no BigQuery usando a arquitetura de Modern Data Warehouse, projeto esse que usa Python para a ingestão, Google Cloud Storage como Data Lake, Google BigQuery como Data Warehouse, dbt para a Transformação dos Dados e Terraform para o provisionamento da infraestrutura.
+
+### [Ingestão de Dados usando o Kestra para Ingerir e Orquestrar] (https://github.com/silvaaraujo98/dbt-project-anac)
+Desenvolvimento da Ingestão de Dados da Anac. O projeto utiliza o Kestra para orquestrar um pipeline de dados (ETL) que extrai informações de movimentação aeroportuária da API de Dados Abertos da ANAC, realiza o tratamento de dados e os carrega de forma resiliente em um banco de dados PostgreSQL.
+
+
 ### [Workshop sobre LLMs](https://www.linkedin.com/posts/jvictoraraujo_depois-de-v%C3%A1rios-meses-fazendo-o-material-activity-7161500526474391552-Bxwe?utm_source=share&utm_medium=member_desktop)
 Conduzi um workshop para funcionários do Grupo Trigo sobre o uso de Modelos de Linguagem de Grande Escala (LLMs), com foco em como essas tecnologias podem ser aplicadas para melhorar a eficiência e inovação em diversas áreas da empresa. O workshop destacou o uso de ferramentas como ChatGPT e outras IAs generativas.
 
@@ -14,13 +21,11 @@ Desenvolvi um projeto utilizando Streamlit para criar uma aplicação web para a
 ### [Artigos no Medium](https://medium.com/@jvsilvaaraujo98)
 Escrevo sobre diversos temas relacionados à tecnologia, análise de dados, Python, e mais. No Medium, compartilho meus insights, tutoriais e reflexões sobre as tendências mais recentes e práticas recomendadas na área de tecnologia. Explore meus artigos para obter uma visão mais aprofundada sobre meus interesses e expertise.
 
-### [Meus Repositórios no GitHub](https://github.com/silvaaraujo98?tab=repositories)
-Meu GitHub é o lar de uma variedade de projetos, desde automações em Python até visualizações de dados com Power BI e DAX. Aqui, você pode explorar todos os meus repositórios públicos, onde compartilho ferramentas, scripts e relatórios que desenvolvi ao longo da minha carreira.
 
 ## 🌟 Sobre Mim
 
 - 🎓 **Formação:** Atualmente cursando Engenharia de Produção pelo CEFET/RJ, aulas totalmente onlines com provas aos fins de semana, com conclusão prevista para dezembro de 2026.
-- 💻 **Experiência Profissional:** Atuo como Analista Pleno de Bi na Ipnet By Vivo, onde desenvolvo Dashboards e  atendo tickets em Power BI e Looker.
+- 💻 **Experiência Profissional:** Atuo como Analyticsd Enginner Senior na Ipnet By Vivo.
 - 📈 **Habilidades Técnicas:**
   - **Python:** Desenvolvimento de automações, análises de dados e relatórios com bibliotecas como Pandas, Plotly, Prophet e outras.
   - **SQL:** Criação de consultas complexas para análise de KPIs, relatórios de marketing e otimização de processos.
