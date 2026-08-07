@@ -5,10 +5,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um Analista Pleno de Bi e de Dados apaixo
 
 ## 🚀 Projetos Destacados
 
-### [Pipeline de Dados usando dados de Aviação da ANAC] (https://github.com/silvaaraujo98/dbt-project-anac)
+### [Pipeline de Dados usando dados de Aviação da ANAC](https://github.com/silvaaraujo98/dbt-project-anac)
 Desenvolvimento de um pipeline de dados usando que ingere dados da Agência Nacional de Aviação Civil no BigQuery usando a arquitetura de Modern Data Warehouse, projeto esse que usa Python para a ingestão, Google Cloud Storage como Data Lake, Google BigQuery como Data Warehouse, dbt para a Transformação dos Dados e Terraform para o provisionamento da infraestrutura.
 
-### [Ingestão de Dados usando o Kestra para Ingerir e Orquestrar] (https://github.com/silvaaraujo98/dbt-project-anac)
+### [Ingestão de Dados usando o Kestra para Ingerir e Orquestrar](https://github.com/silvaaraujo98/dbt-project-anac)
 Desenvolvimento da Ingestão de Dados da Anac. O projeto utiliza o Kestra para orquestrar um pipeline de dados (ETL) que extrai informações de movimentação aeroportuária da API de Dados Abertos da ANAC, realiza o tratamento de dados e os carrega de forma resiliente em um banco de dados PostgreSQL.
 
 
